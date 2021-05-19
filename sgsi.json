@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/21.3.25/miui_UMI_21.3.25_0667a7709b_11.0.zip",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/meizu17_Pro/9.21.5.17/cn_daily/20210517184206/0b777e3b/update.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
-  "make_miui": true,
-  "make_flyme": false,
+  "make_miui": false,
+  "make_flyme": true,
   "make_coloros": false,
   "make_h2os": false,
   "make_smartisanos": false,
